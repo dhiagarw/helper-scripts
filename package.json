@@ -1,0 +1,19 @@
+{
+  "name": "broken-links",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "broken-links.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "p-limit": "^6.2.0",
+    "puppeteer": "^24.4.0",
+    "xlsx": "^0.18.5"
+  }
+}
