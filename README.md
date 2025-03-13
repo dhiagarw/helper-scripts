@@ -1,0 +1,5 @@
+ - Install node
+ - Run 'npm install'
+ - Add list of pages in pages.txt file
+ - Run 'node broken_links.js'
+ - Check results.xlsx file for output
